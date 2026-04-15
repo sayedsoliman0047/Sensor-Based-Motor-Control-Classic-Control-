@@ -58,7 +58,7 @@ The circuit is divided into:
 
 ## 📷 Circuit Diagram
 
-![Solution](./Solution.jpg)
+![Solution](./Solution.png)
 
 ---
 
