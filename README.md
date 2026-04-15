@@ -64,7 +64,7 @@ The circuit is divided into:
 
 ## 🎥 Demo Video
 
-(Attach your video here after upload)
+(video.mp4)
 
 ---
 
