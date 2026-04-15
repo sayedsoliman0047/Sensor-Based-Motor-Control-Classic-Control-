@@ -64,7 +64,7 @@ The circuit is divided into:
 
 ## 🎥 Demo Video
 
-(video.mp4)
+![Video](./video.mp4)
 
 ---
 
