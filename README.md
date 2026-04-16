@@ -1,6 +1,6 @@
 # Sensor-Based-Motor-Control-Classic-Control
 
-## 📌 Project Overview
+##  Project Overview
 
 This project implements a **classic control circuit** for a motor using a **sensor and time delay logic**.
 
@@ -15,7 +15,7 @@ The system behavior follows these conditions:
 
 ---
 
-## ⚙️ Components Used
+##  Components Used
 
 * Contactor (K)
 * Overload Relay (R)
@@ -26,7 +26,7 @@ The system behavior follows these conditions:
 
 ---
 
-## 🔌 Control Logic Explanation
+##  Control Logic Explanation
 
 The circuit is divided into:
 
@@ -47,7 +47,7 @@ The circuit is divided into:
 
 ---
 
-## 🧠 Key Concepts
+##  Key Concepts
 
 * Self-holding (latching circuit)
 * Interlocking
@@ -56,19 +56,19 @@ The circuit is divided into:
 
 ---
 
-## 📷 Circuit Diagram
+##  Circuit Diagram
 
 ![Solution](./Solution.png)
 
 ---
 
-## 🎥 Demo Video
+##  Demo Video
 
 ![Video](./video.mp4)
 
 ---
 
-## 🚀 How to Run (Hardware)
+##  How to Run (Hardware)
 
 1. Connect components as shown in the diagram.
 2. Power ON the system.
@@ -78,7 +78,7 @@ The circuit is divided into:
 
 ---
 
-## 💡 Notes
+##  Notes
 
 * Designed using **classic control (relay logic)**, not PLC.
 * Can be extended to PLC (Ladder Logic) easily.
